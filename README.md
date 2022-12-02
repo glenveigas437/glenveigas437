@@ -83,7 +83,7 @@ I am currently employed as a Software Engineer 💻 at <a href="https://www.tech
 
 <h4>I am learning</h4>
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://user-images.githubusercontent.com/31877827/205277362-7a087869-b89f-4094-be54-aad93eec3afa.svg")</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a> <img src="https://user-images.githubusercontent.com/31877827/205277362-7a087869-b89f-4094-be54-aad93eec3afa.svg" width="40" height="40")</a>
 </p>
 
 
