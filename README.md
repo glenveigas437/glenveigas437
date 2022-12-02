@@ -30,11 +30,13 @@ I am currently employed as a Software Engineer 💻 at <a href="https://www.tech
 
 <h2 align="left">Work Experience</h2>
 
+<h4> November 2022 - Present</h4>
 
-| Years                     |      Organisation                                                                                                          |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------|
-| Nov 2022 -                | <img src="https://user-images.githubusercontent.com/31877827/205267176-e21f5258-6ce2-4bf1-8f7a-b359436e968e.svg" width="50" height="50"/>  |
-| Jun 2019 - Nov 2022       | <img src="https://user-images.githubusercontent.com/31877827/205268043-9d6f86c0-444f-4c24-9481-c50298d4d1b0.svg" width="50" height="50"/> |
+<img src="https://user-images.githubusercontent.com/31877827/205267176-e21f5258-6ce2-4bf1-8f7a-b359436e968e.svg" width="50" height="50"></img>
+
+<h4>June 2019 - November 2022</h4>
+
+<img src="https://user-images.githubusercontent.com/31877827/205268043-9d6f86c0-444f-4c24-9481-c50298d4d1b0.svg" width="50" height="50"></img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glenveigas437&label=Profile%20views&color=0e75b6&style=flat" alt="glenveigas437" /> </p>
