@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Glen Veigas</h1>
-<p align="left"> A backend developer who loves code, coffee, football and music.</p>
+<p align="left">
+<strong>
+  <code>Versatile Craftsman(Software Engineer/Baker/Writer/Football Geek/Singer/Songwriter)</code>
+  </strong>
+  
+Thank you for bumping into my Github profile. Well, I am still building it by stocking up some of my pretty awesome projects 😀. 
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glenveigas437&label=Profile%20views&color=0e75b6&style=flat" alt="glenveigas437" /> </p>
 
