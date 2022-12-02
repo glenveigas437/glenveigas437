@@ -21,7 +21,6 @@ I am currently employed as a Software Engineer 💻 at <a href="https://www.tech
 <p align="left">
 <a href="https://www.leetcode.com/glenveigas4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="glenveigas4" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/glenveigas437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="glenveigas437" height="30" width="40" /></a>
-</p>
 <a href="https://www.hackerrank.com/glenveigas437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="glenveigas437" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/glen-veigas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="glen-veigas" height="30" width="40" /></a>
 <a href="https://kaggle.com/glenveigas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="glenveigas" height="30" width="40" /></a>
