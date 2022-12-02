@@ -9,7 +9,8 @@ Thank you for bumping into my Github profile. Well, I am still building it by st
 I am currently employed as a Software Engineer 💻 at <a href="https://www.techprescient.com/">Tech Prescient</a> where I get to follow my passion and love for computers and and also showcase my coding skills to solve real-world, complex engineering problems.
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>   
+
 <h4 align="left">Socials: </h4>
 <p align="left">
 <a href="https://linkedin.com/in/glenveigas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glenveigas" height="30" width="40" /></a>
