@@ -27,8 +27,15 @@ I am currently employed as a Software Engineer 💻 at <a href="https://www.tech
 <a href="https://kaggle.com/glenveigas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="glenveigas" height="30" width="40" /></a>
 </p>
 
+
 <h2 align="left">Work Experience</h2>
 
+| Years.       | Company                  |
+ - - - - - - -   - - - - - - - - - - - - -
+| Nov 2022 -   | ![Tech Prescient](https://user-images.githubusercontent.com/31877827/205267176-e21f5258-6ce2-4bf1-8f7a-b359436e968e.svg) |
+| Jun 2019 -   | ![Tata_Consultancy_Services](https://user-images.githubusercontent.com/31877827/205268043-9d6f86c0-444f-4c24-9481-c50298d4d1b0.svg)
+|  Nov 2022    | 
+| - - - - - - -|
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glenveigas437&label=Profile%20views&color=0e75b6&style=flat" alt="glenveigas437" /> </p>
@@ -36,6 +43,7 @@ I am currently employed as a Software Engineer 💻 at <a href="https://www.tech
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glenveigas437" alt="glenveigas437" /></a> </p>
 
 - 🌱 I’m currently learning **AWS, Cloud**
+
 
 
 
