@@ -46,7 +46,7 @@ I am currently employed as a Software Engineer 💻 at <a href="https://www.tech
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <h4>Programming Languages</h4>
 <p align="left"> 
@@ -88,7 +88,7 @@ I am currently employed as a Software Engineer 💻 at <a href="https://www.tech
 
 
 
-<h3 align="left">Github Stats</h3>
+<h2 align="left">Github Stats</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glenveigas437&label=Profile%20views&color=0e75b6&style=flat" alt="glenveigas437" /> </p>
 
