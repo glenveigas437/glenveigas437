@@ -33,8 +33,8 @@ I am currently employed as a Software Engineer 💻 at <a href="https://www.tech
 
 | Sr. No.                   |        Topic                                                                                                               |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------|
-| Nov 2022 -                | ![Tech Prescient](https://user-images.githubusercontent.com/31877827/205267176-e21f5258-6ce2-4bf1-8f7a-b359436e968e.svg = 1X1)   |
-| Jun 2019 - Nov 2022       | ![Tata_Consultancy_Services](https://user-images.githubusercontent.com/31877827/205268043-9d6f86c0-444f-4c24-9481-c50298d4d1b0.svg = 1X1)|
+| Nov 2022 -                | ![Tech Prescient](https://user-images.githubusercontent.com/31877827/205267176-e21f5258-6ce2-4bf1-8f7a-b359436e968e.svg =1X1)   |
+| Jun 2019 - Nov 2022       | ![Tata_Consultancy_Services](https://user-images.githubusercontent.com/31877827/205268043-9d6f86c0-444f-4c24-9481-c50298d4d1b0.svg =1X1)|
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glenveigas437&label=Profile%20views&color=0e75b6&style=flat" alt="glenveigas437" /> </p>
