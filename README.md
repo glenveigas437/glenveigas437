@@ -26,6 +26,7 @@ I am currently employed as a Software Engineer 💻 at <a href="https://www.tech
 <a href="https://kaggle.com/glenveigas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="glenveigas" height="30" width="40" /></a>
 </p>
 
+<h2 align="left">Work Experience</h2>
 
 
 
