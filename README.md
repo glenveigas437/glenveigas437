@@ -32,9 +32,8 @@ I am currently employed as a Senior Software Engineer 💻 at <a href="https://w
 <h2 align="left">Work Experience</h2>
 
 <h4>September 2024 - Present</h4>
-![images (1)](https://github.com/user-attachments/assets/bf8ff7bc-e9c2-4a1d-ba45-56f6595ad9bd)
 
-<img src="https://user-images.githubusercontent.com/31877827/205267176-e21f5258-6ce2-4bf1-8f7a-b359436e968e.svg" width="50" height="50"></img>
+<img src="https://github.com/user-attachments/assets/bf8ff7bc-e9c2-4a1d-ba45-56f6595ad9bd" width="50" height="50"></img>
 
 <h4> November 2022 - July 2023</h4>
 
