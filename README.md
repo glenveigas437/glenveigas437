@@ -32,7 +32,7 @@ I am currently employed as a Senior Software Engineer 💻 at <a href="https://w
 <h2 align="left">Work Experience</h2>
 <h4>October 2025 -  Present</h4>
 
-<img src="https://github.com/user-attachments/assets/785120da-3e4f-409f-9625-1a17c7ed4269" " width="50" height="50"/>
+<img src="https://github.com/user-attachments/assets/785120da-3e4f-409f-9625-1a17c7ed4269" width="50" height="50"/>
 
 <h4>September 2024 - October 2025</h4>
 
