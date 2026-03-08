@@ -6,7 +6,7 @@
   
 Thank you for bumping into my Github profile. Well, I am still building it by stocking up some of my pretty awesome projects 😀, while you can also have a look at some of other decent work via my public repositories. One step at a time I manage to bring the best of my different avatars from solving real-world problems by writing neat and comprehensive code to creating fluffy cakes in the kitchen, yes! I also love to pen down my thoughts through blogs on the internet for various media firms. Come weekends, I allow my most favourite avatar to take the limelight and showcase my football skills on the field and also support my beloved <a href="https://www.manutd.com/">Manchester United</a> to then coming home and writing some pretty decent songs while I strum my guitar. 
   
-I am currently employed as a Senior Software Engineer 💻 at <a href="https://www.linkedin.com/company/lenden-club"> LenDenClub </a> (India's Largest P2P Lending Platform) where I get to follow my passion and love for computers and and also showcase my coding skills to solve real-world, complex engineering problems.
+I am currently employed as a Senior Software Engineer 💻 at <a href="https://www.linkedin.com/company/nomura"> Nomura </a> (one of Asia's largest Investment Banks) where I get to follow my passion and love for computers and and also showcase my coding skills to solve real-world, complex engineering problems.
 </p>
 
 <h3 align="left">Connect with me:</h3>   
@@ -30,8 +30,12 @@ I am currently employed as a Senior Software Engineer 💻 at <a href="https://w
 
 
 <h2 align="left">Work Experience</h2>
+<h4>October 2025 -  Present</h4>
 
-<h4>September 2024 - Present</h4>
+<img src="<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/785120da-3e4f-409f-9625-1a17c7ed4269" />
+" width="50" height="50"></img>
+
+<h4>September 2024 - October 2025</h4>
 
 <img src="https://github.com/user-attachments/assets/bf8ff7bc-e9c2-4a1d-ba45-56f6595ad9bd" width="50" height="50"></img>
 
